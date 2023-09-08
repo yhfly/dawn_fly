@@ -35,6 +35,8 @@
         "button"
       ],
       "settings": {
+        "image": "shopify:\/\/shop_images\/mcny.jpg",
+        "image_2": "shopify:\/\/shop_images\/ears2.jpg",
         "image_overlay_opacity": 40,
         "image_height": "large",
         "desktop_content_position": "bottom-center",
