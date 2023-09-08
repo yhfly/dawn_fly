@@ -1,6 +1,8 @@
 .banner {
   display: flex;
   position: relative;
+  max-width: 1660px;
+  margin: auto;
   flex-direction: column;
 }
 

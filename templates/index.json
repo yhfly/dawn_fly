@@ -1,7 +1,7 @@
 {
   "sections": {
-    "image_banner": {
-      "type": "image-banner",
+    "fly_image_banner": {
+      "type": "fly-image-banner",
       "blocks": {
         "text": {
           "type": "text",
@@ -13,7 +13,7 @@
         "heading": {
           "type": "heading",
           "settings": {
-            "heading": "图片banner111",
+            "heading": "fly 图片 banner",
             "heading_size": "h0"
           }
         },
@@ -215,7 +215,7 @@
     }
   },
   "order": [
-    "image_banner",
+    "fly_image_banner",
     "rich_text",
     "featured_collection",
     "collage",
