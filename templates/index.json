@@ -1,65 +1,11 @@
 {
   "sections": {
-    "fly_image_banner": {
+    "fly_first_row":
+    {
       "type": "fly-first-row",
-      "blocks": {
-        "text": {
-          "type": "text",
-          "settings": {
-            "text": "Give customers details about the banner image(s) or content on the template.",
-            "text_style": "body"
-          }
-        },
-        "heading": {
-          "type": "heading",
-          "settings": {
-            "heading": "fly 图片 banner",
-            "heading_size": "h0"
-          }
-        },
-        "button": {
-          "type": "buttons",
-          "settings": {
-            "button_label_1": "Shop all",
-            "button_link_1": "shopify:\/\/collections\/all",
-            "button_style_secondary_1": true,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
-        }
-      },
-      "block_order": [
-        "text",
-        "heading",
-        "button"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/mcny.jpg",
-        "image_2": "shopify:\/\/shop_images\/ears2.jpg",
-        "image_overlay_opacity": 40,
-        "image_height": "large",
-        "desktop_content_position": "bottom-center",
-        "show_text_box": false,
-        "desktop_content_alignment": "center",
-        "color_scheme": "inverse",
-        "image_behavior": "none",
-        "mobile_content_alignment": "center",
-        "stack_images_on_mobile": false,
-        "show_text_below": false
-      }
-    },
-     
-    "fly_second_row":
-    {
-      "type": "fly-second-row",
       "settings":{}
     },
-    "fly_third_row":
-    {
-      "type": "fly-third-row",
-      "settings":{}
-    },
+ 
     "fly_fourth_row":
     {
       "type": "fly-fourth-row",
@@ -68,9 +14,7 @@
    
   },
   "order": [
-    "fly_image_banner",
-    "fly_second_row",
-    "fly_third_row",
+    "fly_first_row",
     "fly_fourth_row"
   ]
 }
