@@ -1,17 +1,15 @@
 {
   "sections": {
-    "fly_first_row":
-    {
+    "fly_first_row": {
       "type": "fly-first-row",
-      "settings":{}
+      "settings": {
+      }
     },
- 
-    "fly_fourth_row":
-    {
+    "fly_fourth_row": {
       "type": "fly-fourth-row",
-      "settings":{}
+      "settings": {
+      }
     }
-   
   },
   "order": [
     "fly_first_row",
